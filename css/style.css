@@ -1,0 +1,60 @@
+div {
+    background-color: palegreen;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 10%; 10%;
+}
+div a{
+    color: red;
+}
+div p{
+    color:black ;
+}
+h1 {
+    font-size: 50px;
+    color: orange;
+}
+form   {
+}
+input[type="submit"] {
+    background-color: black;
+    color: white;
+    width: 15%;
+}
+input:focus{
+    background-color: blueviolet;
+}
+input[type="submit"]:hover{
+    background-color: aqua;
+    border: none;
+    transition: 1s;
+}
+input::placeholder {
+    color: chocolate;
+    font-size: ;
+}
+#check {
+    width: auto;
+}
+input {
+    width: 50%;
+    color: black;
+}
+
+label {
+    color: green;
+}
+.font {
+    font-size: 20px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+p {
+    color: red;
+}
+
